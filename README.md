@@ -1,4 +1,4 @@
-## Olá 👋
+##👋 Olá
 
 - 🌱 Eu estou aprendendo python e c++
 - 🤔 Eu preciso de ajuda com lógica de programação
