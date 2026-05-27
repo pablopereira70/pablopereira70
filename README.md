@@ -23,3 +23,4 @@ Tudo o que está aqui foi feito do zero, focado em código limpo, organização 
 * 🧱 Curto construir projetos que sejam simples, organizados e fáceis de entender.
 * ♟️ Gosto de jogar xadrez
 * 🏎️ Sou fã de fórmula 1
+* 🥇 Medalhista em olimpíadas de conhecimento nacional (como Astronomia e Geografia) e apaixonado por lógica.
