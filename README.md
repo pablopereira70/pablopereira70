@@ -1,6 +1,5 @@
-## Olá! 👋
 
-Me chamo Pablo, sou estudante de Análise e Desenvolvimento de Sistemas e moro no Piauí, Brasil. 
+Olá! Me chamo Pablo, sou estudante de Análise e Desenvolvimento de Sistemas e moro no Piauí, Brasil. 
 
 Atualmente, estou focado em construir uma base sólida em lógica de programação e algoritmos. Este perfil é o meu laboratório: uso este espaço para documentar minha evolução na faculdade, organizar meus estudos e versionar soluções de desafios de lógica e programação competitiva.
 
