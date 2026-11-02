@@ -46,6 +46,7 @@ Valorizo a organização, a documentação clara, a qualidade do código e a evo
 ![Excel](https://img.shields.io/badge/Excel-008000?style=for-the-badge)
 ![Esp32](https://img.shields.io/badge/ESP%2032-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![Thinger.io](https://img.shields.io/badge/Thinger.io-132533?style=for-the-badge)
 
 </div>
 
